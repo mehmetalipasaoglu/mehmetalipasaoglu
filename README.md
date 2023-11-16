@@ -6,7 +6,7 @@
 
 
 [![LinkedIn][1]][2]
-![Medium][3][4]
+[![Medium][3]][4]
 
 ***
 #### Languages
