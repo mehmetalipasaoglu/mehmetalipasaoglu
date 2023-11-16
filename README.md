@@ -1,10 +1,12 @@
 ### Hi there 👋
 [1]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [2]:  https://www.linkedin.com/in/mehmetalipasaoullari/
-
+[3]:  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[4]:  https://medium.com/@mehmetalipasaoullari
 
 
 [![LinkedIn][1]][2]
+![Medium][3][4]
 
 ***
 #### Languages
